@@ -7,7 +7,7 @@
  * @version 1.0.0
  */
 
-namespace molexui\fontawesome;
+namespace molexui\ionicons;
 
 use yii\web\AssetBundle;
 
